@@ -72,6 +72,6 @@ print("Maximum Profit: ₹", dp[n][budget])
 
 OUTPUT;
 Selected Products: ['A', 'B', 'D']
-Maximum Profit: ₹ 130000
+Maximum Profit: ₹ 130000.
 
 
